@@ -1,0 +1,21 @@
+$white-page-bg:                      rgba(255, 255, 255, 1); 
+
+$ideas:                              rgba(255, 109, 100, 1);
+$strategy:                           rgba(255, 163, 88, 1);
+$marketing:                          rgba(255, 210, 69, 1);
+$execution:                          rgba(171, 216, 115, 1);
+$it-web:                             rgba(113, 203, 201, 1);
+$finance:                            rgba(93, 202, 240, 1);
+$legal:                              rgba(255, 163, 88, 1);
+$hr:                                 rgba(184, 136, 210, 1);
+$hres:                               rgba(184, 136, 210, 1);
+
+.ideas {background-color: $ideas; color: $white-page-bg;}
+.strategy {background-color: $strategy; color: $white-page-bg}
+.marketing {background-color: $marketing; color: $white-page-bg}
+.execution {background-color: $execution; color: $white-page-bg}
+.it-web {background-color: $it-web; color: $white-page-bg}
+.finance {background-color: $finance; color: $white-page-bg}
+.legal {background-color: $legal; color: $white-page-bg}
+.hr {background-color: $hr; color: $white-page-bg}
+.hres {background-color: $hres; color: $white-page-bg}
